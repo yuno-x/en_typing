@@ -1,0 +1,25 @@
+# Delimiter must be tab character '\t'.
+# en_word	ja_word	category
+
+apple	りんご	food	.
+orange	オレンジ	food	.
+banana	バナナ	food	.
+strawberry	いちご	food	.
+avocado	アボカド	food	.
+kiwi	キウイ	food	.
+grapefruit	グレープフルーツ	food	.
+coconut	ココナッツ	food	.
+cherry	さくらんぼ	food	.
+pineapple	パイナップル	food	.
+papaya	パパイヤ	food	.
+durian	ドリアン	food	.
+grape	ぶどう	food	.
+mango	マンゴー	food	.
+peach	もも	food	.
+lemon	レモン	food	.
+persimmon	柿	food	.
+chestnut	栗	food	.
+watermelon	スイカ	food	.
+pear	梨	food	.
+loquat	びわ	food	.
+mandarin	みかん	food	.

@@ -1,0 +1,56 @@
+# Delimiter must be tab character '\t'.
+# en_word	ja_word	category
+#
+vehicle	のりもの	category	.
+
+fire engine	消防車	vehicle	.
+ambulance	救急車	vehicle	.
+taxi	タクシー	vehicle	.
+truck	トラック	vehicle	.
+bus	バス	vehicle	.
+police car	パトカー	vehicle	.
+digger	ショベルカー	vehicle	.
+segway	セグウェイ	vehicle	.
+garbage truck	ゴミ収集車	vehicle	.
+crane truck	クレーン車	vehicle	.
+snow mobile	スノーモービル	vehicle	.
+tank	戦車	vehicle	.
+oxcart	牛車	vehicle	.
+horse carriage	馬車	vehicle	.
+dog sled	犬ぞり	vehicle	.
+rickshaw	人力車	vehicle	.
+car	自動車	vehicle	.
+
+train	電車	vehicle	.
+monorail	モノレール	vehicle	.
+steam locomotive	蒸気機関車	vehicle	.
+bullet train	新幹線	vehicle	.
+streetcar	路面電車	vehicle	.
+
+unicycle	一輪車	vehicle	.
+bicycle	自転車	vehicle	.
+tricycle	三輪車	vehicle	.
+motorcycle	オートバイ	vehicle	.
+
+balloon	気球	vehicle	.
+airplane	飛行機	vehicle	.
+helicopter	ヘリコプター	vehicle	.
+paraglider	パラグライダー	vehicle	.
+airship	飛行船	vehicle	.
+fighter plane	戦闘機	vehicle	.
+space shuttle	スペースシャトル	vehicle	.
+
+train	電車	vehicle	.
+
+raft	いかだ	vehicle	.
+canoe	カヌー	vehicle	.
+lifeboat	救命ボート	vehicle	.
+icebreaker	砕氷船	vehicle	.
+houseboat	屋形船	vehicle	.
+warship	軍艦	vehicle	.
+patrol boat	巡視船	vehicle	.
+pirate ship	海賊船	vehicle	.
+aircraft carrier	空母	vehicle	.
+submarine	潜水艦	vehicle	.
+ship	船	vehicle	.
+yacht	ヨット	vehicle	.

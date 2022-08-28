@@ -1,0 +1,7 @@
+# Delimiter must be tab character '\t'.
+# en_word	ja_word	category
+food	たべもの	category	.
+
+%include	food/fruits.list
+
+rice	米	food	.

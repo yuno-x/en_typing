@@ -1,0 +1,20 @@
+# Delimiter must be tab character '\t'.
+# en_word	ja_word	category
+
+proverb	ことわざ	category	.
+Easy come, easy go.	悪銭身に付かず	proverb	.
+After a storm comes a calm.	雨降って地固まる	proverb	.
+There is no time like the present.	思い立ったが吉日	proverb	.
+Better to ask the way than go astray.	聞くは一時の恥、聞かぬは一生の恥	proverb	.
+When you are in Rome do as the Romans do.	郷に入りては郷に従え	proverb	.
+Failure teaches success.	失敗は成功のもと	proverb	.
+Man's extremity is God's opportunity.	人事を尽くして天命を待つ	proverb	.
+Haste is from the devil.	急いてはことをし損じる	proverb	.
+Little and often fills the purse.	ちりも積もれば山となる	proverb	.
+Strike while the iron is hot.	鉄は熱いうちに打て	proverb	.
+Time is money.	時は金なり	proverb	.
+Look before you leap.	転ばぬ先の杖	proverb	.
+Better safe than sorry.	備えあれば憂いなし	proverb	.
+It is a long lane that has no turning.	待てば海路の日和あり	proverb	.
+A rolling stone gathers no moss.	転石、苔を生ぜず	proverb	.
+Persistence pays off.	継続は力なり	proverb	.

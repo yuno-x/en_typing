@@ -1,0 +1,10 @@
+# Delimiter must be tab character '\t'.
+# en_word	ja_word	category
+
+clang	C言語	category	.
+
+%force	clang	mode=normal
+%force	clang	space=free
+
+./clang/hello.c		clang	.
+./clang/calc.c		clang	.
