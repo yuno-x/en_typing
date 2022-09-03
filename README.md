@@ -3,7 +3,9 @@ This TUI (Text User Interface) program is a tool to train typing English from Ja
 You can learn translation simultaneously.
 
 ## depending package
-libncurses (If you install this package on debian (Based) distribution, it may be alright that you input a command "sudo apt install libncurses").
+libncurses (If you install this package on debian (Based) distribution, it may be alright that you input following commands.)
+
+    $ sudo apt install libncurses-dev build-essential
 
 ## build and run
 You can build this program with following command.
