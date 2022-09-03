@@ -1,5 +1,6 @@
 category	分類	.	.
 %include	food.list
 %include	vehicle.list
+%include	furniture.list
 %include	proverb.list
 %include	clang.list

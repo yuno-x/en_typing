@@ -1,0 +1,38 @@
+# Delimiter must be tab character '\t'.
+# en_word	ja_word	category
+furniture	家具	category	.
+
+chair	椅子	furniture	.
+dresser	鏡台	furniture	.
+cupboard	食器棚	furniture	.
+sofa	ソファ	furniture	.
+desk	机	furniture	.
+table	食卓	furniture	.
+clock	時計	furniture	.
+bed	ベッド	furniture	.
+bookshelf	本棚	furniture	.
+pillow	枕	furniture	.
+cabinet	戸棚	furniture	.
+wardrobe	洋服たんす	furniture	.
+drawer	引き出し	furniture	.
+mirror	鏡	furniture	.
+toy box	おもちゃ箱	furniture	.
+shelf	棚	furniture	.
+carpet	絨毯	furniture	.
+rug	敷物	furniture	.
+bunk bed	二段ベッド	furniture	.
+crib	ベビーベッド	furniture	.
+comforter	掛け布団	furniture	.
+diaper changing table	おむつ交換台	furniture	.
+blanket	毛布	furniture	.
+mattress	敷き布団	furniture	.
+bed sheet	シーツ	furniture	.
+pillowcase	枕カバー	furniture	.
+cradle	ゆりかご	furniture	.
+safe	金庫	furniture	.
+vault	金庫室	furniture	.
+fire extinguisher	消化器	furniture	.
+first-aid kit	救急箱	furniture	.
+outlet	コンセント	furniture	.
+circuit breaker	ブレーカー	furniture	.
+extension cord	延長コード	furniture	.
