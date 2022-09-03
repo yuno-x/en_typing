@@ -24,3 +24,8 @@ If you want to clear all generated object, input following command.
 This program use word lists in directory "word\_lists".
 
 If you see word list format, please refer to example word lists.
+
+## screen shot
+![category](https://github.com/yuno-x/en_typing/raw/img/category.png)
+![mainscreen](https://github.com/yuno-x/en_typing/raw/img/main_screen.png)
+![result](https://github.com/yuno-x/en_typing/raw/img/result.png)
